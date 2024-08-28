@@ -1,0 +1,20 @@
+.header{
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin-left: 0%;
+}
+
+.contenido{
+    background-color: aliceblue;
+}
+
+
+
+.pie {
+    height: 50px;
+    background-color: #f1f1f1;
+    text-align: center;
+    line-height: 50px;
+    position: relative;
+    clear: both;
+}
